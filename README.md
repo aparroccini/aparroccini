@@ -1,5 +1,3 @@
-[![Drew Parroccini - Front-end Web Architect.](https://builtbydrew.com/github.png)](https://www.builtbydrew.com)
-
 ### I'm Drew. 
 
 A passionate front-end engineer with a ton of experience, hoping to create the next earth-shaking UI, intuitive design system or brilliant web app. Have a big idea? we should grab a beer (or zoom until the pandemic is over.)
